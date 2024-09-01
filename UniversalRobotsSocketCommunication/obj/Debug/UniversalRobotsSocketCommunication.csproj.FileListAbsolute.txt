@@ -31,3 +31,13 @@ C:\Users\maxim\git\UR-socket-communication-app\UniversalRobotsSocketCommunicatio
 C:\Users\maxim\git\UR-socket-communication-app\UniversalRobotsSocketCommunication\bin\Debug\UniversalRobotsSocketCommunication.exe.config
 C:\Users\maxim\git\UR-socket-communication-app\UniversalRobotsSocketCommunication\bin\Debug\UniversalRobotsSocketCommunication.exe
 C:\Users\maxim\git\UR-socket-communication-app\UniversalRobotsSocketCommunication\bin\Debug\UniversalRobotsSocketCommunication.pdb
+C:\Users\KalebSoller\Documents\GitHub\UR-socket-communication-app\UniversalRobotsSocketCommunication\bin\Debug\UniversalRobotsSocketCommunication.exe.config
+C:\Users\KalebSoller\Documents\GitHub\UR-socket-communication-app\UniversalRobotsSocketCommunication\bin\Debug\UniversalRobotsSocketCommunication.exe
+C:\Users\KalebSoller\Documents\GitHub\UR-socket-communication-app\UniversalRobotsSocketCommunication\bin\Debug\UniversalRobotsSocketCommunication.pdb
+C:\Users\KalebSoller\Documents\GitHub\UR-socket-communication-app\UniversalRobotsSocketCommunication\obj\Debug\UniversalRobotsSocketCommunication.csproj.AssemblyReference.cache
+C:\Users\KalebSoller\Documents\GitHub\UR-socket-communication-app\UniversalRobotsSocketCommunication\obj\Debug\UniversalRobotsSocketCommunication.URCommunication.resources
+C:\Users\KalebSoller\Documents\GitHub\UR-socket-communication-app\UniversalRobotsSocketCommunication\obj\Debug\UniversalRobotsSocketCommunication.Properties.Resources.resources
+C:\Users\KalebSoller\Documents\GitHub\UR-socket-communication-app\UniversalRobotsSocketCommunication\obj\Debug\UniversalRobotsSocketCommunication.csproj.GenerateResource.cache
+C:\Users\KalebSoller\Documents\GitHub\UR-socket-communication-app\UniversalRobotsSocketCommunication\obj\Debug\UniversalRobotsSocketCommunication.csproj.CoreCompileInputs.cache
+C:\Users\KalebSoller\Documents\GitHub\UR-socket-communication-app\UniversalRobotsSocketCommunication\obj\Debug\UniversalRobotsSocketCommunication.exe
+C:\Users\KalebSoller\Documents\GitHub\UR-socket-communication-app\UniversalRobotsSocketCommunication\obj\Debug\UniversalRobotsSocketCommunication.pdb
